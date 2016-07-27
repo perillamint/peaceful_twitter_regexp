@@ -1,0 +1,23 @@
+{
+  "name": "peaceful_twitter_regex",
+  "version": "1.0.0",
+  "description": "평화로운 트위터 타임라인을 위한 정규 표현식",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perillamint/peaceful_twitter_regex.git"
+  },
+  "author": "perillamint",
+  "license": "CC-0",
+  "bugs": {
+    "url": "https://github.com/perillamint/peaceful_twitter_regex/issues"
+  },
+  "homepage": "https://github.com/perillamint/peaceful_twitter_regex#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
