@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/perillamint/peaceful_twitter_regex#readme",
   "devDependencies": {
+    "chai": "^3.5.0",
     "mocha": "^2.5.3"
   }
 }
