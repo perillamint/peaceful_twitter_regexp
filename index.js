@@ -32,4 +32,6 @@ for(let i = 0; i < filters.length; i++) {
 aio_regexp += ").*";
 
 console.log("# All-in-One regular expression");
+console.log("```");
 console.log(aio_regexp);
+console.log("```");
