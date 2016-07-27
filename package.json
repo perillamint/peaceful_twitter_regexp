@@ -1,6 +1,6 @@
 {
   "name": "peaceful_twitter_regex",
-  "version": "1.1",
+  "version": "1.1.0",
   "description": "평화로운 트위터 타임라인을 위한 정규 표현식",
   "main": "index.js",
   "scripts": {
