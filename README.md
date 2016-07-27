@@ -1,6 +1,9 @@
 # peaceful twitter regexp
 평화로운 트위터 타임라인을 위한 정규 표현식
 
+### Pre-built 정규표현식
+PREBUILT.md 에 미리 만들어진 All-in-One 정규표현식이 있음.
+
 ### 요구사항:
 NodeJS 4.x 이상. 6.x 에서 테스트함.
 
