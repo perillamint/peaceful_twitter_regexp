@@ -1,4 +1,6 @@
 'use strict';
+/* jshint -W097 */
+/* jshint esversion: 6 */
 
 if (typeof String.prototype.endsWith != 'function') {
     String.prototype.endsWith = function (str){
