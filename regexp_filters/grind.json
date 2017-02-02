@@ -1,0 +1,8 @@
+{
+    "description": "빻 키워드 뮤트",
+    "regexp_str": "빻(남|녀)",
+    "test": {
+        "should_filter": ["빻남", "빻녀"],
+        "should_pass": []
+    }
+}
