@@ -1,6 +1,6 @@
 {
     "description": "일베 관련 단어 뮤트",
-    "regexp_str": "일[0-9]*(베|배)",
+    "regexp_str": "일[0-9]*[베배]",
     "test": {
         "should_filter": ["일1베", "일베"],
         "should_pass": ["일간신문"]
